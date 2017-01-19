@@ -1,0 +1,12 @@
+.delete-button {
+	display:inline-block;
+	font-size:0.7em;
+	background-color: #555;
+	color: #fff;
+	padding:2px 3px;
+	border:0;
+}
+
+a:link{
+	text-decoration: none;
+}
